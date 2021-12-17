@@ -4,7 +4,7 @@
   "description": "portfolio",
   "main": "main.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon"
   },
   "author": "Aditya singh",
   "license": "ISC",
